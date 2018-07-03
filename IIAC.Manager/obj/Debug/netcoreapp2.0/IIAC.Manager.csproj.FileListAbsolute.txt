@@ -1,0 +1,16 @@
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\bin\Debug\netcoreapp2.0\IIAC.Manager.deps.json
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\bin\Debug\netcoreapp2.0\IIAC.Manager.dll
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\bin\Debug\netcoreapp2.0\IIAC.Manager.pdb
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\bin\Debug\netcoreapp2.0\IIAC.DataRepository.dll
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\bin\Debug\netcoreapp2.0\IIAC.Models.dll
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.dll
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\bin\Debug\netcoreapp2.0\IIAC.DataRepository.pdb
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\bin\Debug\netcoreapp2.0\IIAC.Models.pdb
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.xml
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\obj\Debug\netcoreapp2.0\IIAC.Manager.csprojAssemblyReference.cache
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\obj\Debug\netcoreapp2.0\IIAC.Manager.csproj.CoreCompileInputs.cache
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\obj\Debug\netcoreapp2.0\IIAC.Manager.AssemblyInfoInputs.cache
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\obj\Debug\netcoreapp2.0\IIAC.Manager.AssemblyInfo.cs
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\obj\Debug\netcoreapp2.0\IIAC.Manager.csproj.CopyComplete
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\obj\Debug\netcoreapp2.0\IIAC.Manager.dll
+D:\InvestInAChild\IIAC.Api\IIAC.Manager\obj\Debug\netcoreapp2.0\IIAC.Manager.pdb

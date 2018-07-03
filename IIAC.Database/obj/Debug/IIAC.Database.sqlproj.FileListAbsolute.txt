@@ -1,0 +1,9 @@
+D:\InvestInAChild\IIAC.Api\IIAC.Database\bin\Debug\IIAC.Database.dacpac
+D:\InvestInAChild\IIAC.Api\IIAC.Database\bin\Debug\IIAC.Database.dll
+D:\InvestInAChild\IIAC.Api\IIAC.Database\bin\Debug\IIAC.Database.pdb
+D:\InvestInAChild\IIAC.Api\IIAC.Database\obj\Debug\Model.xml
+D:\InvestInAChild\IIAC.Api\IIAC.Database\obj\Debug\refactor.xml
+D:\InvestInAChild\IIAC.Api\IIAC.Database\obj\Debug\postdeploy.sql
+D:\InvestInAChild\IIAC.Api\IIAC.Database\obj\Debug\predeploy.sql
+D:\InvestInAChild\IIAC.Api\IIAC.Database\obj\Debug\IIAC.Database.dll
+D:\InvestInAChild\IIAC.Api\IIAC.Database\obj\Debug\IIAC.Database.pdb

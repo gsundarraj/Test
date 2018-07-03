@@ -1,0 +1,8 @@
+D:\InvestInAChild\IIAC.Api\IIAC.Models\bin\Debug\netcoreapp2.0\IIAC.Models.deps.json
+D:\InvestInAChild\IIAC.Api\IIAC.Models\bin\Debug\netcoreapp2.0\IIAC.Models.dll
+D:\InvestInAChild\IIAC.Api\IIAC.Models\bin\Debug\netcoreapp2.0\IIAC.Models.pdb
+D:\InvestInAChild\IIAC.Api\IIAC.Models\obj\Debug\netcoreapp2.0\IIAC.Models.csproj.CoreCompileInputs.cache
+D:\InvestInAChild\IIAC.Api\IIAC.Models\obj\Debug\netcoreapp2.0\IIAC.Models.AssemblyInfoInputs.cache
+D:\InvestInAChild\IIAC.Api\IIAC.Models\obj\Debug\netcoreapp2.0\IIAC.Models.AssemblyInfo.cs
+D:\InvestInAChild\IIAC.Api\IIAC.Models\obj\Debug\netcoreapp2.0\IIAC.Models.dll
+D:\InvestInAChild\IIAC.Api\IIAC.Models\obj\Debug\netcoreapp2.0\IIAC.Models.pdb
